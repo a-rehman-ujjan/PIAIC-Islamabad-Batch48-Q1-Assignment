@@ -1,6 +1,10 @@
 // Q23 - Conditional Tests
 
 //i used some code from Q22
+
+let names = ["Afraz", "Javaid", "Haseeb", "Hassan", "Aqib"]
+
+
 type programminglanguage = {
   year: number,
   creator: string,
@@ -50,5 +54,6 @@ console.log(Python.creator == "pakistani")
 console.log("is Javacript.creator.length  == 0? | i predict false")
 console.log(Javascript.creator.length == 12)
 
+let person = "Ujjan"
 console.log("is person.length < 0 ? | i predict false")
 console.log(person0.length < 0)
