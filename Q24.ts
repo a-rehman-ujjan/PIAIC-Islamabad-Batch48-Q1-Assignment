@@ -1,5 +1,4 @@
 // Q24 - More Conditional Test
-console.log("Q-24")
 
 const string1: string = "Hello";
 const string2: string = "World";
